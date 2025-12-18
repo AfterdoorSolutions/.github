@@ -6,7 +6,7 @@ Welcome to the official GitHub profile for **Afterdoor Solutions** — *Smart So
 
 ## 💼 About Us
 
-**Afterdoor Solutions** is a technology and digital services company dedicated to helping businesses thrive through tailored tech solutions, optimized workflows, and meaningful innovation. We partner with companies to solve real-world problems and take ideas to reality.  [oai_citation:0‡Afterdoor Solutions](https://afterdoor.com/?utm_source=chatgpt.com)
+**Afterdoor Solutions** is a technology and digital services company dedicated to helping businesses thrive through tailored tech solutions, optimized workflows, and meaningful innovation. We partner with companies to solve real-world problems and take ideas to reality. 
 
 ---
 
