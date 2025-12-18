@@ -29,7 +29,7 @@ We deliver comprehensive IT and digital services including:
 ✨ 500+ projects delivered with excellence  
 🤝 Trusted by businesses across industries  
 🔥 98% client satisfaction rate  
-📍 Based in India (Mohali / Ambala region)
+📍 Based in India (Mohali, Punjab)
 
 ---
 
@@ -41,10 +41,8 @@ We deliver comprehensive IT and digital services including:
 ## 📬 Connect With Us
 
 - 🌐 Website: https://afterdoor.com  
-- 💼 GitHub: github.com/AfterdoorSolutions  
 - 📱 Instagram: https://instagram.com/afterdoor  
 - 📘 Facebook: https://facebook.com/Afterdoor  
-*(Add your contact email or LinkedIn if relevant)*
 
 ---
 
